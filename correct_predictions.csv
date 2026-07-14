@@ -1,0 +1,72 @@
+image_path,true_label,prediction
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/large.cell.carcinoma/000133 (2).png,Large Cell Carcinoma,Large Cell Carcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/large.cell.carcinoma/000155.png,Large Cell Carcinoma,Large Cell Carcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/large.cell.carcinoma/000113.png,Large Cell Carcinoma,Large Cell Carcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/large.cell.carcinoma/000148.png,Large Cell Carcinoma,Large Cell Carcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/large.cell.carcinoma/000128 (2).png,Large Cell Carcinoma,Large Cell Carcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/large.cell.carcinoma/000171.png,Large Cell Carcinoma,Large Cell Carcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/large.cell.carcinoma/000116.png,Large Cell Carcinoma,Large Cell Carcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/large.cell.carcinoma/000154.png,Large Cell Carcinoma,Large Cell Carcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/large.cell.carcinoma/000118.png,Large Cell Carcinoma,Large Cell Carcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/large.cell.carcinoma/000162.png,Large Cell Carcinoma,Large Cell Carcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000164 (5).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000149 (4).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000123 (9).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000123 (4).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000166 (4).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000155.png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000166 (2).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000147.png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000167 (8).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000114 (5).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000148 (8).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000176 (2).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000149 (2).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000115 (8).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000129 (5).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000125 (6).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000122 (4).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000148 (3).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000133 (4).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000140.png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000116 (7).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000121 (7).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000117 (8).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000171 (5).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000114.png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000174 (4).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000121 (6).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000124 (9).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000161 (5).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000122.png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000158 (2).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000143 (5).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000163 (3).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000134 (9).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000120.png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000139 (8).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000109 (2).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000165 (6).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000121.png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000157 (5).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000160 (4).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000161 (4).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000108 (3).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000138 (6).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000117.png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000125 (5).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000156 (4).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000139.png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000160 (6).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000125 (4).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000119 (4).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000146 (3).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000158 (6).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000118 (5).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000158.png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000119 (5).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000112 (2).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000168 (3).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000145 (9).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000134 (2).png,Adenocarcinoma,Adenocarcinoma
+/content/drive/MyDrive/Ashely CT Lungcancer Detection-V1/Ashely CT Lungcancer Detection-V1/Data-2/test/adenocarcinoma/000148.png,Adenocarcinoma,Adenocarcinoma
